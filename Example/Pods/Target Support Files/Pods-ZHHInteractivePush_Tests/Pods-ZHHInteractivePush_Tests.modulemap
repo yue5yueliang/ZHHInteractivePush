@@ -1,0 +1,6 @@
+framework module Pods_ZHHInteractivePush_Tests {
+  umbrella header "Pods-ZHHInteractivePush_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

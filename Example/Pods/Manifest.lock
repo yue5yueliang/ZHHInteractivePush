@@ -1,0 +1,18 @@
+PODS:
+  - ZHHInteractivePush (0.0.1):
+    - ZHHInteractivePush/Core (= 0.0.1)
+  - ZHHInteractivePush/Core (0.0.1)
+
+DEPENDENCIES:
+  - ZHHInteractivePush (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHInteractivePush:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHInteractivePush: af16f454d47e3d3187e864a04701bf0f3f40920a
+
+PODFILE CHECKSUM: 0ff7eb8bd2bed4d73046040bc6c78b9a0d7f7090
+
+COCOAPODS: 1.16.2

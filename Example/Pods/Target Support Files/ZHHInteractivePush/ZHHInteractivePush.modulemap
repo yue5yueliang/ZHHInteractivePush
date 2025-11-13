@@ -1,0 +1,6 @@
+framework module ZHHInteractivePush {
+  umbrella header "ZHHInteractivePush-umbrella.h"
+
+  export *
+  module * { export * }
+}
